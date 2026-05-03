@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Nidhi Gohel 👋<br><br>🎓 Applied Mathematics @ York University  <br>📍 Toronto, Canada  <br>💻 Interested in Software Engineering, Data Science, Quant Finance & AI<br><br>## Tech Stack<br>Python • Java • SQL • JavaScript • R  <br>Pandas • NumPy • Scikit-Learn • Power BI • Git<br><br>## Current Focus<br>- Building portfolio projects<br>- Preparing for SWE / Data internships<br>- Quant trading research<br>- LeetCode + problem solving<br><br>## Featured Projects<br>📈 Trading Strategy Backtester  <br>🤖 Market Sentiment Analyzer  <br>📊 Analytics Dashboards  <br>🧠 ML Prediction Models<br><br>## Connect<br>📧 nidhi2842002@gmail.com  <br>💼 LinkedIn: linkedin.com/in/nidhi28
+# Hey, I'm Nidhi Gohel 👋<br><br>🎓 Applied Mathematics @ York University  <br>📍 Toronto, Canada  <br>💻 Interested in Data Science, Quant Finance & AI<br><br>## Tech Stack<br>Python • Java • SQL • JavaScript • R  <br>Pandas • NumPy • Scikit-Learn • Power BI • Git<br><br>## Current Focus<br>- Building portfolio projects<br>- Preparing for SWE / Data internships<br>- Quant trading research<br>- LeetCode + problem solving<br><br>## Featured Projects<br>📈 Trading Strategy Backtester  <br>🤖 Market Sentiment Analyzer  <br>📊 Analytics Dashboards  <br>🧠 ML Prediction Models<br><br>## Connect<br>📧 nidhi2842002@gmail.com  <br>💼 LinkedIn: linkedin.com/in/nidhi28
 
 
 ## 🌐 Socials:
